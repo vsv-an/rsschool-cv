@@ -1,3 +1,3 @@
 # rsschool-cv
-* https://viacheslavanisimov.github.io/rsschool-cv/cv
-* https://viacheslavanisimov.github.io/rsschool-cv/
+* https://vsv-an.github.io/rsschool-cv/cv
+* https://vsv-an.github.io/rsschool-cv/
