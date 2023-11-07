@@ -5,7 +5,7 @@
 * Phone: +1-111-111-1111
 * E-mail: vvv@gmail.com
 * Diskord: Viacheslav@vsv-an
-* GitHub: [ViacheslavAnisimov](https://github.com/vsv-an/)
+* GitHub: [Viacheslav Anisimov](https://github.com/vsv-an/)
 ## About me
 I'm currently studying at RS School on JS/FE Stage-0. Upon completion of the course, I hope to continue my studies on JS/FE Course in the fall.
 
